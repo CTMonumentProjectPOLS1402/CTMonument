@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CTMonument/static/css/main.77d6d32b.css",
+    "main.js": "/CTMonument/static/js/main.b525ab16.js",
+    "static/js/453.8397fd48.chunk.js": "/CTMonument/static/js/453.8397fd48.chunk.js",
+    "index.html": "/CTMonument/index.html",
+    "main.77d6d32b.css.map": "/CTMonument/static/css/main.77d6d32b.css.map",
+    "main.b525ab16.js.map": "/CTMonument/static/js/main.b525ab16.js.map",
+    "453.8397fd48.chunk.js.map": "/CTMonument/static/js/453.8397fd48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d6d32b.css",
+    "static/js/main.b525ab16.js"
+  ]
+}
